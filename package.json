@@ -1,0 +1,15 @@
+{
+  "name": "@jeremykross/containership.api-factory",
+  "version": "1.0.1",
+  "description": "",
+  "dependencies": {
+      "@containership/containership.api-bridge": "git://github.com/containership/containership.api-bridge",
+      "@containership/containership.k8s.api-bridge": "git://github.com/containership/containership.k8s.api-bridge"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
